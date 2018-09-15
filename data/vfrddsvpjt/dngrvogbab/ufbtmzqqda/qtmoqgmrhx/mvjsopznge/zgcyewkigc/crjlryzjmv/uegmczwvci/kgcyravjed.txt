@@ -1,0 +1,1 @@
+{"cbrkdlxops": "-400", "age": 47, "kinD": "HUMAN"}

@@ -1,0 +1,1 @@
+{"AGE": 37, "KiND": "hUmAn", "balivamnpe": "145"}

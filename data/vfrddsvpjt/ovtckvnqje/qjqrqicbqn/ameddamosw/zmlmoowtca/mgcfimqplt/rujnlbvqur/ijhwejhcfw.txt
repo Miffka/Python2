@@ -1,0 +1,1 @@
+{"Kind": "Human", "nhoggwgcsb": "-0.2205", "AGe": 18}
